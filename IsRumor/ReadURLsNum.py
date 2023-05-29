@@ -1,4 +1,6 @@
-# TIME：2023-05-24 23:23
+# Author: Hong Sheng Liu
+# Date: 2023-05-24
+# Version: 1.0
 import pandas as pd
 import re
 

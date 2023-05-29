@@ -1,3 +1,6 @@
+# Author: Hong Sheng Liu
+# Date: 2023-05-22
+# Version: 1.0
 import os
 import json
 import xlwt
